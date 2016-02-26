@@ -2,6 +2,8 @@
 
 Total ram é um programa feito para poder mostrar ao usuário a porcentagem de uso da memória ram.
 
+[Example]
+
 ### Version
 1.0.0
 
@@ -27,3 +29,5 @@ License
 GNU GPl V3
 
 **Free Software, Hell Yeah!**
+
+[Example]:https://github.com/zerossB/TotalRam/blob/master/Images/TotalRAM-screen.png?raw=true
