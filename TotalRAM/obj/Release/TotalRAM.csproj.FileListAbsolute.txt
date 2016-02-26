@@ -1,0 +1,10 @@
+d:\documents\visual studio 2015\Projects\TotalRAM\TotalRAM\bin\Release\TotalRAM.exe.config
+d:\documents\visual studio 2015\Projects\TotalRAM\TotalRAM\bin\Release\TotalRAM.exe
+d:\documents\visual studio 2015\Projects\TotalRAM\TotalRAM\bin\Release\TotalRAM.pdb
+d:\documents\visual studio 2015\Projects\TotalRAM\TotalRAM\obj\Release\TotalRAM.Main.resources
+d:\documents\visual studio 2015\Projects\TotalRAM\TotalRAM\obj\Release\TotalRAM.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\TotalRAM\TotalRAM\obj\Release\TotalRAM.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\TotalRAM\TotalRAM\obj\Release\TotalRAM.exe
+d:\documents\visual studio 2015\Projects\TotalRAM\TotalRAM\obj\Release\TotalRAM.pdb
+d:\documents\visual studio 2015\Projects\TotalRAM\TotalRAM\bin\Release\System.Net.Http.dll
+d:\documents\visual studio 2015\Projects\TotalRAM\TotalRAM\bin\Release\System.Net.Http.xml

@@ -1,0 +1,9 @@
+d:\documents\visual studio 2015\Projects\TotalRAM\TotalRAM\bin\Debug\TotalRAM.exe.config
+d:\documents\visual studio 2015\Projects\TotalRAM\TotalRAM\bin\Debug\TotalRAM.exe
+d:\documents\visual studio 2015\Projects\TotalRAM\TotalRAM\bin\Debug\TotalRAM.pdb
+d:\documents\visual studio 2015\Projects\TotalRAM\TotalRAM\obj\Debug\TotalRAM.Main.resources
+d:\documents\visual studio 2015\Projects\TotalRAM\TotalRAM\obj\Debug\TotalRAM.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\TotalRAM\TotalRAM\obj\Debug\TotalRAM.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\TotalRAM\TotalRAM\obj\Debug\TotalRAM.exe
+d:\documents\visual studio 2015\Projects\TotalRAM\TotalRAM\obj\Debug\TotalRAM.pdb
+d:\documents\visual studio 2015\Projects\TotalRAM\TotalRAM\obj\Debug\TotalRAM.Information.resources
