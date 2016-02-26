@@ -2,7 +2,7 @@
 
 Total ram é um programa feito para poder mostrar ao usuário a porcentagem de uso da memória ram.
 
-[Example]
+![Exemplo do Programa funcionando][Example]
 
 ### Version
 1.0.0
