@@ -21,6 +21,7 @@ Dillinger uses a number of open source projects to work properly:
   - Windows Vista/XP
     * 1 MB de espaço em Disco
     * 10Mb de memória Disponivel
+
 ### Instalação
 
 Por enquanto não há, más vou criar assim que der.
