@@ -14,6 +14,13 @@ Dillinger uses a number of open source projects to work properly:
  - Visual Studio Community Edition
  - C# com .Net Framework 3.5
 
+### Requisitos Minimos
+  - Windows 10/8.1/7
+    * 1 MB de espaço em Disco
+    * 6Mb de memória Disponivel 
+  - Windows Vista/XP
+    * 1 MB de espaço em Disco
+    * 10Mb de memória Disponivel
 ### Instalação
 
 Por enquanto não há, más vou criar assim que der.
