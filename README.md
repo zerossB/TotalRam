@@ -9,8 +9,6 @@ Total ram é um programa feito para poder mostrar ao usuário a porcentagem de u
 
 ### Tecnologias Usadas
 
-Dillinger uses a number of open source projects to work properly:
-
  - Visual Studio Community Edition
  - C# com .Net Framework 3.5
 
@@ -24,7 +22,8 @@ Dillinger uses a number of open source projects to work properly:
 
 ### Instalação
 
-Por enquanto não há, más vou criar assim que der.
+Copiar a pasta ./bin/Debug  para algum lugar em seu computador e executar o TotalRam.exe
+Ps. Não criei o instalador ainda :c
 
 ### Contibuições
 
