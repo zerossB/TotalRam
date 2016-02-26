@@ -23,6 +23,7 @@ Total ram é um programa feito para poder mostrar ao usuário a porcentagem de u
 ### Instalação
 
 Copiar a pasta ./bin/Debug  para algum lugar em seu computador e executar o TotalRam.exe
+
 Ps. Não criei o instalador ainda :c
 
 ### Contibuições
